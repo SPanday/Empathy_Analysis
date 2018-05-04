@@ -24,7 +24,7 @@ Steps for running:
 
 Run *FinalClassifier.py* to see the final accuracies for validation and testing set using final as well as baseline classifiers.
 
-Sample output included:
+Sample output included:<br>
 ##starting...
 
   loading dataset...
